@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>992F19AC-B8F6-43A6-9F20-D3995129A6B0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ObjectiveCKoans</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>974FCE0D40E7B245478511B117FEE0E9A3740CCD</key>
+		<string>github.com:joecannatti/Objective-C-Koans.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ObjectiveCKoans.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>974FCE0D40E7B245478511B117FEE0E9A3740CCD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:joecannatti/Objective-C-Koans.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>974FCE0D40E7B245478511B117FEE0E9A3740CCD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>974FCE0D40E7B245478511B117FEE0E9A3740CCD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Objective-C-Koans</string>
+		</dict>
+	</array>
+</dict>
+</plist>
